@@ -1,8 +1,18 @@
 /* Elements */
 
+body {
+  background: linear-gradient(to right, #fceabb 0%, #f8b500 100%, #fbdf93 100%);
+  font-family: Lato;
+}
+h1, h5 {
+  font-family: Medula One;
+}
 
 /* Classes */
 
+.well {
+  background: linear-gradient(to right, #fceabb 0%, #f8b500 100%, #fbdf93 100%);
+}
 
 
 /* IDs */
